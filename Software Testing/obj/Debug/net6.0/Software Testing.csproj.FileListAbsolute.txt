@@ -1,0 +1,30 @@
+C:\Users\Star\source\repos\Software Testing\bin\Debug\net6.0\Software Testing.exe
+C:\Users\Star\source\repos\Software Testing\bin\Debug\net6.0\Software Testing.deps.json
+C:\Users\Star\source\repos\Software Testing\bin\Debug\net6.0\Software Testing.runtimeconfig.json
+C:\Users\Star\source\repos\Software Testing\bin\Debug\net6.0\Software Testing.dll
+C:\Users\Star\source\repos\Software Testing\bin\Debug\net6.0\Software Testing.pdb
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\Software Testing.csproj.AssemblyReference.cache
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\Software Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\Software Testing.AssemblyInfoInputs.cache
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\Software Testing.AssemblyInfo.cs
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\Software Testing.csproj.CoreCompileInputs.cache
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\Software Testing.dll
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\refint\Software Testing.dll
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\Software Testing.pdb
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\Software Testing.genruntimeconfig.cache
+C:\Users\Star\source\repos\Software Testing\obj\Debug\net6.0\ref\Software Testing.dll
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\bin\Debug\net6.0\Software Testing.exe
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\bin\Debug\net6.0\Software Testing.deps.json
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\bin\Debug\net6.0\Software Testing.runtimeconfig.json
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\bin\Debug\net6.0\Software Testing.dll
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\bin\Debug\net6.0\Software Testing.pdb
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\Software Testing.csproj.AssemblyReference.cache
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\Software Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\Software Testing.AssemblyInfoInputs.cache
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\Software Testing.AssemblyInfo.cs
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\Software Testing.csproj.CoreCompileInputs.cache
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\Software Testing.dll
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\refint\Software Testing.dll
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\Software Testing.pdb
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\Software Testing.genruntimeconfig.cache
+C:\Users\Star\source\repos\Software Testing VS\Software Testing\obj\Debug\net6.0\ref\Software Testing.dll
